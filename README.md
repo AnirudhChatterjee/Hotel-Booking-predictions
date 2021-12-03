@@ -1,2 +1,1 @@
-# ML_projects
-# In this folder i have shared all my work done in the domain of Data Science.
+# Predict cancellation of hotel booking using different machine learning algorithms
